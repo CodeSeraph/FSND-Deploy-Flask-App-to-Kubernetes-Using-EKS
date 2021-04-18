@@ -28,3 +28,4 @@ htmlcov/
 .envrc
 .direnv
 .env_file
+aws-auth-patch.yml
